@@ -178,5 +178,6 @@ win32{
     DEPENDPATH += $$PWD/../../sdl2_ttf_vs/include
 
     #specific windows sdk lib
-    win32:LIBS += "C:/Program Files (x86)/Microsoft SDKs/Windows/v7.1A/Lib/ImageHlp.lib"
+    win32:LIBS += "C:/Program Files/Microsoft SDKs/Windows/v7.1/Lib/ImageHlp.lib"
+    #win32:LIBS += "C:/Program Files (x86)/Microsoft SDKs/Windows/v7.1A/Lib/ImageHlp.lib"
 }
