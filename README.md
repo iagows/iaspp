@@ -15,14 +15,14 @@ If you find any "iagogamelib", or "aspp" please tell me to remove/update it. Tha
 | Site | Why? |
 | :--- | ---: |
 | https://www.libsdl.org/ | SDL ( S2 ) |
-| http://www.willusher.io/pages/sdl2/ | basics, c++11 |
+| http://www.willusher.io/pages/sdl2/ | basics, c++ |
 | http://www.java2s.com/ | simple codes |
 | http://lazyfoo.net/tutorials/SDL/ | basics |
-| https://stackoverflow.com/ | doubts, sdl2, libVLC, c++11, c++14, c, c++ etc |
+| https://stackoverflow.com/ | doubts, sdl2, libVLC, c++, c, c++ etc |
 | http://forums.linuxmint.com/ | doubts |
 | http://www.linuxquestions.org | doubts |
 | http://pubs.opengroup.org/onlinepubs/7908799/xsh/sysstat.h.html | mkdir - linux |
-| https://www.google.com.br/ | found pages :P |
+| https://duckduckgo.com/ | found pages :P |
 | http://qt-project.org/ | Qt Creator |
 | https://github.com | Free storage |
 | https://wiki.videolan.org/LibVLC_Users/ | libVLC |
