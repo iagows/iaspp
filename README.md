@@ -4,7 +4,7 @@ Meaning: Iago ActionScript++;
 
 ## About
 
-C++ Library to make easier to create games. C++17, SLD2, FFMPEG. Created using Qt Creator. I'm writing this lib for personal use and with my freetime, so don't expect many updates. Sorry!
+C++ Library to make easier to create games. Created using Qt Creator. I'm writing this lib for personal use and with my freetime, so don't expect many updates. Sorry!
 
 If you find any "iagogamelib", or "aspp" please tell me to remove/update it. Thanks!
 
@@ -64,5 +64,7 @@ In **windows**, I've included "windows.h", so I had to fix **Rectangle**:
 
 
 ## Requirements
+* C++17
 * SDL2
-* libVLC (not yet)
+* libVLC
+* FFMPEG
