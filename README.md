@@ -1,10 +1,11 @@
 # iasPP
 
-Meaning: iago action script ++;
+Meaning: Iago ActionScript++;
 
 ## About
 
-C++ Library to make easier to create games. C++11, SLD, FFMPEG. Created using Qt Creator with MingW. I'm doing this to personal use and with my freetime, so don't expect many updates, sorry.
+C++ Library to make easier to create games. C++17, SLD2, FFMPEG. Created using Qt Creator. I'm writing this lib for personal use and with my freetime, so don't expect many updates. Sorry!
+
 If you find any "iagogamelib", or "aspp" please tell me to remove/update it. Thanks!
 
 ![iaspp](asp.png)
@@ -51,12 +52,12 @@ In **windows**, I've included "windows.h", so I had to fix **Rectangle**:
 
 ### Tasks
 #### Tested
-- [x] Windows tested
-- [ ] Linux tested (Ubuntu only)
-- [x] ~~Mac tested~~ No ios. Sorry.
+- [ ] Windows tested
+- [x] Linux tested (Mint only)
+- [ ] ~~Mac tested~~ No ios. Sorry.
 
 ##### next steps
-
+* rewrite to use smart pointers
 * finish MouseMove event
 * finish TextField
 * test TextField
@@ -65,13 +66,3 @@ In **windows**, I've included "windows.h", so I had to fix **Rectangle**:
 ## Requirements
 * SDL2
 * libVLC (not yet)
-
-###generating ssh keys
-https://help.github.com/articles/generating-ssh-keys/
-
-###defining user
-$ git config --global user.name "John Doe"
-$ git config --global user.email johndoe@example.com
-
-###how to clone with ssh
-http://stackoverflow.com/questions/20871549/error-when-push-commits-with-github-fatal-could-not-read-username/20884273#20884273
